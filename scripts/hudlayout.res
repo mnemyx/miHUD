@@ -217,6 +217,7 @@
 		"fieldName"				"CDamageAccountPanel"
 		"xpos"					"0"
 		"ypos"					"0"
+		"zpos"					"2"
 		"wide"					"f0"
 		"tall"					"480"
 		"visible" 				"1"
@@ -224,6 +225,7 @@
 		"PaintBackgroundType"	"2"
 	}
 	
+
 	DisguiseStatus
 	{
 		"fieldName" "DisguiseStatus"
@@ -549,6 +551,22 @@
 		"ItemFont"				"Default"
 		"ItemFontPulsing"		"Default"
 
+	}
+
+	HudSpellMenu
+	{
+		"fieldName" "HudSpellMenu"
+		"visible" "1"
+		"enabled" "1"
+		"wide" "640"
+		"tall" "480"
+		"zpos" "2"
+		"xpos" "10"
+		"ypos" "r30"
+
+		"TextFont" 				"Default"
+		"ItemFont" 				"Default"
+		"ItemFontPulsing" 		"Default"
 	}
 
 	HudCloseCaption
@@ -1362,5 +1380,18 @@
 		"visible" "0"
 		"enabled" "0"
 		"textAlignment" "center"
+	}
+
+	"CTFKillStreakNotice"
+	{
+		"fieldName"		"CTFKillStreakNotice"
+		"xpos"			"0"			
+		"ypos"			"0"
+		"wide"			"640"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"	"0 0 0 0"
+		"PaintBackgroundType"	"0" // rounded corners
 	}
 }

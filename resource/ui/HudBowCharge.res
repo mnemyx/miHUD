@@ -4,11 +4,11 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ChargeMeterLabel"
-		"xpos"					"29999999995"
-		"ypos"					"9999999999"
+		"xpos"					"25"
+		"ypos"					"0"
 		"zpos"					"3"
 		"wide"					"150"
-		"tall"					"2"
+		"tall"					"6"
 		"autoResize"			"1"
 		"pinCorner"				"2"
 		"visible"				"1"
@@ -20,9 +20,9 @@
 		"brighttext"			"0"
 		"font"					"Futura7"
 		"fgcolor_override"		"OmpMeterLabel"
-		
-		"xpos_minmode"			"999999950"
-		"wide_minmode"			"199999900"
+
+		"xpos_minmode"			"50"
+		"wide_minmode"			"100"
 	}
 	"ChargeMeter"
 	{	
@@ -30,10 +30,10 @@
 		"fieldName"		"ChargeMeter"
 		"font"			"Default"
 		"xpos"			"25"
-		"ypos"			"2"
+		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"150"
-		"tall"			"2"				
+		"tall"			"6"				
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -43,7 +43,7 @@
 		"brighttext"	"0"
 		"bgcolor_override"	"OmpDarkBG"
 		"fgcolor_override"	"255 255 255 255"
-		
+
 		"xpos_minmode"			"50"
 		"wide_minmode"			"100"
 	}					
