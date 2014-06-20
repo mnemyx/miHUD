@@ -2020,7 +2020,7 @@ Scheme
 				"antialias"	"1"
 			}
 		}
-		ImportToolSmallest"
+		"ImportToolSmallest"
 		{
 			"1"
 			{
