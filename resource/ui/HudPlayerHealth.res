@@ -16,7 +16,7 @@
 		"HealthDeathWarning"	"0.49"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
 		
-		"xpos_minmode"	"c-144"
+		"xpos_minmode"	"c-152"
 		"ypos_minmode"	"c37"
 		"wide_minmode"	"102"
 		"tall_minmode"	"92"
@@ -409,5 +409,21 @@
 		"ypos_minmode"	"60"
 		"wide_minmode"	"23"
 		"tall_minmode"	"23"
+	}
+	"PlayerStatus_Parachute"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatus_Parachute"
+		"xpos"			"85"
+		"xpos_minmode"	"70"
+		"ypos"			"0"
+		"zpos"			"7"
+		"wide"			"31"
+		"tall"			"31"
+		"visible"		"0"
+		"enabled"		"1"
+		"scaleImage"	"1"	
+		"image"			""
+		"fgcolor"		"TanDark"
 	}
 }
